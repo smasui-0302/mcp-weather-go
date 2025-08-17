@@ -36,7 +36,7 @@ go build -o mcp-weather
 {
   "mcpServers": {
     "weather-go": {
-      "command": "/ABSOLUTE/PATH/TO/mcp-weather-go/mcp-weather",  // ← go build 派
+      "command": "/ABSOLUTE/PATH/TO/mcp-weather-go/mcp-weather",
       "args": []
     }
   }
