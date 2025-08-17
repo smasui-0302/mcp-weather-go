@@ -30,7 +30,7 @@ go build -o mcp-weather
 ## MCPクライアントでの利用方法
 
 - Claude Desktopの利用を想定しています
-- `claude_desktop_config.json` に絶対Pathで登録するう
+- `claude_desktop_config.json` に絶対Pathで登録する
 
 ```json
 {
