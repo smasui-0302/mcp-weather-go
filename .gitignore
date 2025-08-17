@@ -1,0 +1,7 @@
+/mcp-weather
+/bin/
+*.exe
+*.dll
+*.test
+*.out
+.DS_Store
