@@ -47,3 +47,7 @@ go build -o mcp-weather
 
 - 「What are the active weather alerts in TX?」
 - 「Forecast near 38.58,-121.49（サクラメント付近）」
+
+## Blog
+
+- [勉強のためにMCPサーバーのチュートリアルをGoに書き換えてみた](https://smasui.hatenadiary.jp/entry/2025/08/18/184528)
